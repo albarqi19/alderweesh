@@ -1,0 +1,19 @@
+:root {
+  --ink: #1c1c1c;
+  --accent: #a8905f;
+  --paper: #f3efe7;
+  --white: #faf9f5;
+  --accent-d: #786948;
+  --accent-l: #a8905f;
+  --on-accent: #1c1c1c;
+  --portal-btn-bg: #1c1c1c;
+  --portal-btn-fg: #f3efe7;
+  --hero-bg: #f3efe7;
+  --hero-fg: #1c1c1c;
+  --hero-accent: #786948;
+  --hdr-fg: #1c1c1c;
+  --hdr-bg: #f7f4ee;
+  --hdr-line: #d9d6cf;
+  --draw: #786948;
+  --motif: #e2ded7;
+}
